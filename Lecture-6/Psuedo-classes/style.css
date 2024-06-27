@@ -1,0 +1,33 @@
+/* h1{
+    color: red;
+    background-color: yellow;
+
+} */
+ /* h1:hover{
+    color: blueviolet;
+    background-color: bisque;
+    cursor: pointer;
+         ( grab, pointer , arrow)
+}
+
+
+/* --------------------------- */
+/* a{
+    background-color:antiquewhite ;
+
+
+}
+a:active{
+    background-color: blueviolet;
+    font-size: 100px;
+
+
+} */
+
+
+li:nth-of-type(6),
+li:nth-of-type(3){
+    color: red;
+    font-size: 100px;
+}
+
